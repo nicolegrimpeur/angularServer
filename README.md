@@ -1,4 +1,4 @@
-# Web Server AngularJS
+# Web Server Angular
 
 ## Goals
 
