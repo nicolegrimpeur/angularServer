@@ -1,8 +1,10 @@
-# angularServeur
+# Web Server AngularJS
 
 ## Goals
 
-Create a system allowing you to manage a web server hosting projects using Angular.
+Creation of a system allowing you to manage a web server hosting projects using Angular with Express.
+
+Work too with the Ionic Project using Angular.
 
 ## Table of contents
 
