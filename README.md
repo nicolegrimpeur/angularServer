@@ -31,7 +31,7 @@ Works with version of Node.Js superior or equal to 16.
 You can install the library using npm:
 
 ```bash
-npm install angularserver
+npm install angularwebserver
 ```
 
 ## Usage 
@@ -45,10 +45,10 @@ You can import the package using :
 
 ```javascript
 // if you are using CommonJs
-const angularserver = require('angularserver');
+const angularServer = require('angularwebserver');
 
 // if you are using ES6
-import {angularserver} from "angularserver";
+import {angularServer} from "angularwebserver";
 ```
 
 ### Variables
